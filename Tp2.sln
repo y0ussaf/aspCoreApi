@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tp2", "Tp2\Tp2.csproj", "{3BBC0502-9394-4036-BD57-6A74B2A15D91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerService", "LoggerService\LoggerService.csproj", "{DD8DDADC-1B42-4934-B885-AB010542DFBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{D28C0606-9CCD-4E4A-8CF2-2339B98AC485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BBC0502-9394-4036-BD57-6A74B2A15D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BBC0502-9394-4036-BD57-6A74B2A15D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BBC0502-9394-4036-BD57-6A74B2A15D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BBC0502-9394-4036-BD57-6A74B2A15D91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD8DDADC-1B42-4934-B885-AB010542DFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD8DDADC-1B42-4934-B885-AB010542DFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD8DDADC-1B42-4934-B885-AB010542DFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD8DDADC-1B42-4934-B885-AB010542DFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D28C0606-9CCD-4E4A-8CF2-2339B98AC485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28C0606-9CCD-4E4A-8CF2-2339B98AC485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28C0606-9CCD-4E4A-8CF2-2339B98AC485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28C0606-9CCD-4E4A-8CF2-2339B98AC485}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15E6998A-4742-4BE9-8226-48E3DA9021F4}
+	EndGlobalSection
+EndGlobal
